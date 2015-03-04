@@ -1,7 +1,7 @@
 gorunner
 ========
 
-[![Build Status](https://secure.travis-ci.org/jakecoffman/gorunner.png?branch=master)](http://travis-ci.org/jakecoffman/gorunner)
+[![Build Status](https://secure.travis-ci.org/lattwood/gorunner.png?branch=master)](http://travis-ci.org/lattwood/gorunner)
 
 gorunner is an attempt to create a continuous integration web server written in Golang.
 
